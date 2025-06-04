@@ -1,1 +1,2 @@
 # DISCONNECT_NETWORK_DRIVES
+ネットワークドライブを一気に解除するWindows用バッチ。
